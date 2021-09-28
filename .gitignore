@@ -1,6 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# CLion
+.idea/
+CMakeLists.txt
+cmake-build-*
+
+# Configs
+Config/DefaultEditorSettings.ini
+
 # Compiled Object files
 *.slo
 *.lo
